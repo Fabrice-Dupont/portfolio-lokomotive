@@ -158,7 +158,7 @@ header {
   margin: 400px 0 250px;
 }
 .img1 {
-  background: url(../img/bill-gates-1.jpg) top/cover;
+  background: url(../img/fabrice.jpeg) top/cover;
 }
 .h2-wrapper {
   mix-blend-mode: exclusion;
@@ -273,5 +273,5 @@ footer a {
   font-size: calc(1rem + 2vw);
 }
 .img2 {
-  background: url(../img/bill-gates-2.jpg) center/cover;
+  background: url(../img/Fabrichka.jpg) center/cover;
 }
